@@ -1,5 +1,7 @@
 # Hi there, I’m **Valentino Phiri** (@Valent-p)
 
+[![Valentino Phiri's Github Stats](https://github-readme-stats.vercel.app/api?username=valent-p&show_icons=true)] (#) 
+
 ## About Me
 - **Languages & Interests:** Python, Machine Learning, Artificial Intelligence, Video Game Development, and Web Development  
 - **Currently Learning:** Diving deeper into all of the above while building cool projects  
