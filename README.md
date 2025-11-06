@@ -1,7 +1,13 @@
 # Hi there, I’m **Valentino Phiri** (@Valent-p)
 
 ## Public Contributions
-[![Valentino Phiri's ranking in Malawi](https://user-badge.committers.top/malawi/Valent-p.svg)](https://user-badge.committers.top/malawi/Valent-p) 
+
+[![Valentino Phiri's private contributions ranking in Malawi](https://user-badge.committers.top/malawi_private/Valent-p.svg)](https://user-badge.committers.top/malawi_private/Valent-p)
+
+
+[![Valentino Phiri's public contributions ranking in Malawi](https://user-badge.committers.top/malawi_public/Valent-p.svg)](https://user-badge.committers.top/malawi_public/Valent-p)
+
+[![Valentino Phiri's committe ranking in Malawi](https://user-badge.committers.top/malawi/Valent-p.svg)](https://user-badge.committers.top/malawi/Valent-p) 
 
 <p align="center">
   <a href="https://github.com/valent-p">
