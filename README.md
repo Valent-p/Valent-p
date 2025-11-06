@@ -1,5 +1,8 @@
 # Hi there, I’m **Valentino Phiri** (@Valent-p)
 
+## Public Contributions
+[![Valentino Phiri's ranking in Malawi](https://user-badge.committers.top/malawi/Valent-p.svg)](https://user-badge.committers.top/malawi/Valent-p) 
+
 <p align="center">
   <a href="https://github.com/valent-p">
     <img src="https://github-readme-stats.vercel.app/api?username=valent-p&show_icons=true&theme=dracula" alt="Valentino Phiri's Github Stats" />
