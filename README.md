@@ -1,12 +1,9 @@
 # Hi there, I’m **Valentino Phiri** (@Valent-p)
 
-## Public Contributions
+### Software Developer | Founder of [Veigatec](https://veigatec.rf.gd) | Based in Malawi
 
 [![Valentino Phiri's private contributions ranking in Malawi](https://user-badge.committers.top/malawi_private/Valent-p.svg)](https://user-badge.committers.top/malawi_private/Valent-p)
-
-
 [![Valentino Phiri's public contributions ranking in Malawi](https://user-badge.committers.top/malawi_public/Valent-p.svg)](https://user-badge.committers.top/malawi_public/Valent-p)
-
 [![Valentino Phiri's committe ranking in Malawi](https://user-badge.committers.top/malawi/Valent-p.svg)](https://user-badge.committers.top/malawi/Valent-p) 
 
 <p align="center">
@@ -17,22 +14,32 @@
 
 ## About Valentino Phiri
 
-Valentino Phiri is a passionate and self-taught developer from **Malawi, Africa**, currently honing his skills at the National College of Information Technology. His journey into programming began with Python at college, but his curiosity has led him to explore a wide array of technologies far beyond the curriculum. Valentino thrives on turning complex problems into elegant solutions and has a deep love for creating everything from games to programming languages.
+I am a programmer and game developer from **Malawi**, currently studying at the **National College of Information Technology (NACIT)**.
+
+While I share a name with a famous General, I command lines of code, not soldiers. I am the founder of **[Veigatec](https://veigatec.rf.gd)**, a software development group focused on building digital solutions for Malawi and beyond. My journey began with Python, but I have since become fluent in C#, Java, and systems programming. I thrive on turning complex problems into elegant solutions, from designing custom programming languages to building 2D game engines.
 
 - 🌍 **From:** Malawi, Africa
-- 🎓 **Studying:** National College of Information Technology (as of October 2025)
-- 🔭 **Current Focus:** Valentino is currently expanding his knowledge in game development and exploring the intricacies of programming language design.
-- 🌱 **Learning Goals:** He is diving deeper into Rust and C# while continually improving his skills across the board.
-- 👯 **Collaboration Interests:** Valentino Phiri is looking to collaborate on open-source projects related to game development, web applications, or anything that pushes the boundaries of creativity.
-- 📫 **How to reach me:** `valent.phiri at gmail dot com`
+- 🎓 **Education:** Student at National College of Information Technology.
+- 💼 **Founder:** [Veigatec](https://veigatec.rf.gd)
+- 🔭 **Current Focus:** Advanced Game Development and Compiler/Language Design.
+- 🌱 **Learning Goals:** Deepening knowledge in Rust and low-level systems architecture.
+- 👯 **Collaboration:** Open to open-source projects in Game Dev, Web Apps, or Education Tech.
+- 📫 **Contact:** `valent.phiri at gmail dot com`
 - 😄 **Pronouns:** He/Him
 
 ---
 
-### Languages & Technologies Valentino Phiri is Fluent In:
+### Languages & Technologies:
 
+**Fluent / Professional:**
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#valent-p">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
     <td align="center" width="96">
       <a href="#valent-p">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
@@ -55,7 +62,7 @@ Valentino Phiri is a passionate and self-taught developer from **Malawi, Africa*
       <a href="#valent-p">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>
-      <br>React+Vite
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#valent-p">
@@ -90,16 +97,9 @@ Valentino Phiri is a passionate and self-taught developer from **Malawi, Africa*
   </tr>
 </table>
 
-### With a Basic Understanding Of:
-
+**Basic Understanding / Learning:**
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#valent-p">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
     <td align="center" width="96">
       <a href="#valent-p">
         <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
@@ -125,31 +125,31 @@ Valentino Phiri is a passionate and self-taught developer from **Malawi, Africa*
 
 ### Libraries, Frameworks & Tools:
 
-- **Web Development:** Laravel, WordPress & Joomla (Theme and Plugin Development), FastAPI, Django
-- **Game Development:** Pygame, Pymunk, Box2D, GDevelop, GameMaker, AndEngine
+- **Web Development:** Laravel, WordPress & Joomla (Custom Theme/Plugin Dev), FastAPI, Django
+- **Game Development:** Unity (C#), Godot, Pygame, Pymunk, Box2D, GameMaker
 - **Design:** Figma
 
 ### Platform Development Capabilities:
 
-- **Websites:** Full-stack design and development.
+- **Websites:** Full-stack design and development (Veigatec).
 - **Android:** Native app development.
 - **Windows:** Desktop applications.
-- **Linux & iOS:** Basic proficiency and growing.
+- **Linux & iOS:** Growing proficiency.
 
 ---
 
 ### Advanced Skills & Interests:
 
-- **Programming Language Design:** Valentino Phiri is currently learning to design and develop programming languages. He has created several toy languages and aspires to build something more substantial in the future.
-- **2D Game Development:** He has a strong passion and skill set for creating 2D games from scratch.
-- **Database Design:** Proficient in designing and structuring databases for various applications.
-- **Animation:** Valentino loves bringing ideas to life through animation, a journey he began by creating cartoons on his Android phone. He also enjoys creating animated tutorials for subjects like mathematics and programming.
+- **Programming Language Design:** Currently designing custom interpreted languages.
+- **2D Game Development:** Building engines and physics simulations from scratch.
+- **Database Design:** Structuring efficient data systems for web apps.
+- **Animation:** Creating animated tutorials for mathematics and programming.
 
 ### Other Skills & Hobbies:
 
-- **Team Leadership:** Many say Valentino Phiri is a talented team leader.
-- **Creative Arts:** His interests extend to drawing, song writing, and crafting stories and novels.
-- **Gaming:** When he's not coding, you can often find him immersed in PC games.
+- **Team Leadership:** Leading development teams at Veigatec.
+- **Creative Arts:** Drawing, songwriting, and novel writing.
+- **Gaming:** Avid PC Gamer.
 
 ## Fun Facts
 
