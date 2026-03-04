@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valent-p)
 [![Website](https://img.shields.io/badge/Veigatec-Website-ff0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://veigatec.rf.gd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentino-phiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentino-phiri-74263237b)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valent.phiri@gmail.com)
 
 ---
@@ -129,7 +129,7 @@ I am also the founder of **[Veigatec](https://veigatec.rf.gd)**, a software deve
 
 [![Email](https://img.shields.io/badge/📧%20Email-valent.phiri@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valent.phiri@gmail.com)
 [![Website](https://img.shields.io/badge/🌐%20Website-Veigatec-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://veigatec.rf.gd)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentino-phiri)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentino-phiri-74263237b)
 
 </div>
 </div>
